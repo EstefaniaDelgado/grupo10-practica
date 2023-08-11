@@ -1,3 +1,3 @@
 console.log("Hello World")
 
-const gato = "red"
+const auto = "red"
